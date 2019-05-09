@@ -4,18 +4,21 @@ data:extend({
       type = "recipe",
       name = "green-to-red",
       energy_required = 10,
-      enabled = false,
+      enabled = true,
       ingredients =
       {
         {"logistic-science-pack", 1}
       },
-      result= "automation-science-pack"
+      results=
+      {
+        {type = "item", name = "automation-science-pack", amount = 10}
+      }
     },
     {
       type = "recipe",
       name = "red-to-green",
       energy_required = 10,
-      enabled = false,
+      enabled = true,
       ingredients =
       {
         {"automation-science-pack", 10}
