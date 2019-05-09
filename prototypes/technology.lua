@@ -2,8 +2,8 @@ data:extend({
     {
         type = "technology",
         name = "science-conversion-1",
-        icon = "__ScienceConversion__/graphics/air-tech.png", --Change later
-        icon_size = 64,
+        icon = "__ScienceConversion__/graphics/green-red-science.png",
+        icon_size = 128,
         effects =
         {   
           {

@@ -9,9 +9,17 @@ data:extend({
       {
         {"logistic-science-pack", 1}
       },
-      result=
+      result= "automation-science-pack"
+    },
+    {
+      type = "recipe",
+      name = "red-to-green",
+      energy_required = 10,
+      enabled = false,
+      ingredients =
       {
         {"automation-science-pack", 10}
-      }
+      },
+      result= "logistic-science-pack"
     }
   })
