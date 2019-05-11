@@ -22,9 +22,9 @@ data:extend({
           ingredients =
           {
             {"automation-science-pack", 1},
-            {"logistic-science-pack", 1},            
+            {"logistic-science-pack", 1},
           },
           time = 15
         }
     }
-  })--This is the end of the file
+  })
