@@ -8,7 +8,7 @@ contact: Contact me in the factorio discord, or on twitter If you use this mod i
 Version: 17.1.1
 
 Type: Mod
-Name: Sciecne Conversion
+Name: Science Conversion
 
 Description: This mod allows the ability to convert science packs into one another, Up and down a tier. Space science is being planned, 
 but not currently implemented yet, im working on balancing issues
