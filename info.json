@@ -1,10 +1,10 @@
 {"name": "ScienceConversion",
-"version": "17.1.2",
+"version": "0.18.0",
 "title": "Science Conversion",
 "author": "narokuu",
 "contact": "Discord: Narokuu#6347", 
 "homepage": "twitter.com/narokuu",
-"factorio_version": "0.17",
-"dependencies": ["base >= 0.17"],
+"factorio_version": "0.18",
+"dependencies": ["base >= 0.18"],
 "description":""
 }
