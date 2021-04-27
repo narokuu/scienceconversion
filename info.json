@@ -1,10 +1,10 @@
 {"name": "ScienceConversion",
-"version": "1.1.0",
+"version": "1.1",
 "title": "Science Conversion",
 "author": "narokuu",
 "contact": "Discord: Narokuu#6347", 
 "homepage": "",
-"factorio_version": "1.1.32",
+"factorio_version": "1.1",
 "dependencies": ["base >= 1.1.32"],
 "description":""
 }
