@@ -4,7 +4,7 @@
 "author": "narokuu",
 "contact": "Discord: Narokuu", 
 "homepage": "",
-"factorio_version": "1.1.59",
+"factorio_version": "1.1",
 "dependencies": ["base >= 1.1.59"],
 "description":"This mod allows the ability to convert science packs into one another, Up and down a tier! Including space science!"
 }
