@@ -10,7 +10,7 @@ You will be mining resources, researching technologies, building infrastructure,
 The game is very stable and optimized for building massive factories. You can create your own maps, write mods in Lua, or play with friends via Multiplayer."
 
 
-This gaem is great, and this repo is my first one! A great friend taught me how to mod factorio games, and i wanted to share it with you!
+This game is great, and this is my first mod! A great friend taught me how to mod factorio games, and i wanted to share it with you!
 
 After researching the requiremnts in the game, you can turn one science into another, up and down a tier. Allowing you to create new and unique factories!
 
